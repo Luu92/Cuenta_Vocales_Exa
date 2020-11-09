@@ -1,0 +1,2 @@
+# Una pequeña aplicación con punteros contar las vocales de una palabra.
+._Creamos una función la cual recibe como parametro un puntero y dentro de la funcion cuentas las vocales que tiene dicha palabra y el número de veces que aparece la vocal en la palabra._. 
